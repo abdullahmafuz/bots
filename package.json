@@ -2,7 +2,7 @@
   "name": "bot",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://abdullahmafuz.github.io/botspage",
+  "homepage" : "http://abdullahmafuz.github.io/bots",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
